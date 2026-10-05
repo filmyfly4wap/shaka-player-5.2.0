@@ -59,6 +59,17 @@
       -webkit-tap-highlight-color: transparent;
     }
 
+    .header { 
+       color: #fff; 
+             padding: 10px 15px; 
+             font-size: 16px; 
+             margin-left: 3px; 
+             font-weight: 700; 
+             border-left: 4px solid #2962ff; 
+             background: #0f172a; 
+             text-transform: uppercase; 
+             margin-bottom: 3px; 
+            } 
     .cnav-header-bar {
       position: fixed;
       top: 0;
@@ -1095,7 +1106,7 @@
       transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
     }
 
-    .c-list-btn .btn-left { display: flex; align-items: center; gap: 12px; }
+    .c-list-btn .btn-left { display: flex; align-items: center; gap: 1px; }
 
     .c-list-btn .btn-icon-wrap {
       width: 30px;
@@ -1282,7 +1293,7 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      gap: 6px;
+      gap: 1px;
       z-index: 100;
       pointer-events: none;
       color: #fff;
@@ -2481,8 +2492,3 @@
         width: 35px;
       }
     }
-
-
-
-
-
