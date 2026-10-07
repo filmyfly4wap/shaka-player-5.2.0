@@ -2308,6 +2308,7 @@
     .footer-left h3 .logo-highlight {
       display: inline-block;
       color: #ffffff;
+      font-size:15px;
       font-family: "Eagle Lake", cursive, serif;
       text-shadow: 0 0 15px rgba(59, 130, 246, 0.5);
       margin-left: 2px;
