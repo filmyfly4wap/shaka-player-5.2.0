@@ -2297,7 +2297,7 @@
       font-family: "Eagle Lake", cursive, serif;
       font-size: 26px;
       font-weight: 600;
-      color: #ffffff;
+      color: #2962ff;
       text-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
       letter-spacing: 0.5px;
       line-height: 1.3;
@@ -2307,7 +2307,7 @@
 
     .footer-left h3 .logo-highlight {
       display: inline-block;
-      color: #2962ff;
+      color: #ffffff;
       font-family: "Eagle Lake", cursive, serif;
       text-shadow: 0 0 15px rgba(59, 130, 246, 0.5);
       margin-left: 2px;
