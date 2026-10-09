@@ -1087,7 +1087,7 @@
       to { opacity: 1; transform: translateY(0); }
     }
 
-    .c-item-list { display: flex; flex-direction: column; gap: 7px; }
+    .c-item-list { display: flex; flex-direction: column;}
 
     .c-list-btn {
       background: rgba(255, 255, 255, 0.035);
